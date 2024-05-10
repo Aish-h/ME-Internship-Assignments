@@ -8,3 +8,7 @@ As a part of Empowered Internship.
 <h4>Create a Form</h4>
 
 ![FORM](https://github.com/Aish-h/ME-Internship-tasks/assets/148599226/172a3663-a0a6-442b-82cd-550be5a69890)
+
+<h4>Image Gallery</h4>
+
+![Image gallery](https://github.com/Aish-h/ME-Internship-tasks/assets/148599226/00226065-b969-4a20-ad72-681b147a5a4c)
