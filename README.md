@@ -11,4 +11,4 @@ As a part of Empowered Internship.
 
 <h4>Image Gallery</h4>
 
-![Image gallery](https://github.com/Aish-h/ME-Internship-tasks/assets/148599226/00226065-b969-4a20-ad72-681b147a5a4c)
+![Image gal](https://github.com/Aish-h/ME-Internship-tasks/assets/148599226/b9cfd94c-9416-41b0-8990-1c2d8a23e15b)
