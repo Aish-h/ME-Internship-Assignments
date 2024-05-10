@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+
+  }
+  .main img{
+    width:100%;
+    height:auto;
+    object-fit:fill;
+    border-radius:10px;
+}
+  .row {
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+  }
+  
+  .column{
+    flex: 1;
+    flex-direction: row;
+  }
+
+.sub-cloumn1{
+  flex:1;
+}
+.subrow{
+  flex:1;
+  flex-direction: row;
+}
