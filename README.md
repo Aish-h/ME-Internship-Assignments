@@ -1,4 +1,4 @@
-# ME-Internship-tasks
+# ME-Internship-Assignments
 As a part of Empowered Internship.
 <h2>Task1</h2>
 <h4>Create a table</h4>
